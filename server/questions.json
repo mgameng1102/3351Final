@@ -1,0 +1,23 @@
+{
+    "Lifestyle":{
+        "1":"I enjoy spending time outdoors and being physically active.",
+        "2":"I have a lot of free time and I don't travel often.",
+        "3":"I like to interact with other people and animals.",
+        "4":"I prefer quiet and calm environments over noisy and busy ones.",
+        "5":"I prefer indoor pets over outdoor pets."
+    },
+    "Living conditions":{
+        "6":"I live in a spacious house with a yard or a garden.",
+        "7":"I have a decent place for the pet to stay.",
+        "8":"I can afford the costs of food, vet bills, grooming, and other expenses for a pet.",
+        "9":"I have other pets or children in my household.",
+        "10":"I live in a climate that is suitable for the type of pet I want."
+    },
+    "Care capabilities":{
+        "11":"I am willing and able to train my pet and teach it good manners.",
+        "12":"I am comfortable with cleaning up after my pet and dealing with its waste.",
+        "13":"I am prepared to handle any health or behavioral issues that my pet may have.",
+        "14":"I am aware of the legal and ethical responsibilities of owning a pet.",
+        "15":"I am committed to providing my pet with love, care, and attention for its entire life."
+    }
+}

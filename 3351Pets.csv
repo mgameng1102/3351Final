@@ -1,0 +1,83 @@
+﻿Type,Breed,Lifestylescore,Livingconditionsscore,Carecapabilitiesscore
+Dog,Labrador retriever,5,4,4
+Dog,Poodle,3,3,3
+Dog,Chihuahua,2,2,2
+Cat,Persian,2,3,3
+Cat,Siamese,3,2,2
+Cat,Mainecoon,4,4,4
+Bird,Parrot,3,2,4
+Bird,Canary,2,3,2
+Bird,Finch,1,4,1
+Fish,Goldfish,1,3,1
+Fish,Betta,2,2,2
+Fish,Guppy,3,4,3
+Reptile,Turtle,2,3,3
+Reptile,Snake,3,2,4
+Reptile,Lizard,4,4,4
+Rodent,Hamster,2,3,2
+Rodent,Guinea pig,3,4,3
+Rodent,Rabbit,4,4,4
+Dog,Boxer,3,3,3
+Dog,Shih Tzu,2,2,2
+Dog,Dachshund,4,4,4
+Cat,Scottish Fold,3,3,3
+Cat,Exotic Shorthair,4,4,4
+Cat,Abyssinian,2,2,2
+Bird,Budgerigar,3,3,3
+Bird,African Grey Parrot,4,4,4
+Bird,Finch,2,2,2
+Fish,Swordtail,3,3,3
+Fish,Discus,4,4,4
+Fish,Mollies,2,2,2
+Reptile,Bearded Dragon,3,3,3
+Reptile,Chameleon,4,4,4
+Reptile,Tortoise,2,2,2
+Rodent,Gerbil,3,3,3
+Rodent,Degu,4,4,4
+Rodent,Capybara,2,2,2
+Other,Sugar Glider,3,3,3
+Other,Ferret,4,4,4
+Other,Squirrel,2,2,2
+Amphibian,Salamander,3,3,3
+Amphibian,Tree Frog,4,4,4
+Amphibian,Newt,2,2,2
+Invertebrate,Hermit Crab,3,3,3
+Invertebrate,Octopus,4,4,4
+Invertebrate,Giant African Millipede,2,2,2
+Horse,Arabian,3,3,3
+Horse,Thoroughbred,4,4,4
+Horse,Shetland Pony,2,2,2
+SmallMammal,Hedgehog,3,3,3
+SmallMammal,Ferret,4,4,4
+SmallMammal,Sugar Glider,2,2,2
+Arachnid,Tarantula,3,3,3
+Arachnid,Jumping Spider,4,4,4
+Arachnid,Wolf Spider,2,2,2
+Exotic,Fennec Fox,3,3,3
+Exotic,Wallaby,4,4,4
+Exotic,Skunk,2,2,2
+Dog,German Shepherd,4,5,4
+Dog,Beagle,3,3,3
+Dog,Bulldog,2,2,2
+Cat,Ragdoll,4,3,4
+Cat,Bengal,3,4,3
+Cat,Sphynx,2,2,2
+Bird,Cockatoo,4,3,4
+Bird,Lovebird,3,2,3
+Bird,Macaw,2,4,2
+Fish,Tetra,1,2,1
+Fish,Angelfish,3,3,3
+Fish,Clownfish,4,4,4
+Reptile,Iguana,3,2,3
+Reptile,Gecko,4,3,4
+Reptile,Boa Constrictor,5,4,5
+Rodent,Rat,2,2,2
+Rodent,Mouse,3,3,3
+Rodent,Ferret,4,4,4
+Other,Hedgehog,3,2,3
+Other,MiniaturePig,4,3,4
+Other,Tarantula,2,2,2
+Amphibian,Frog,3,2,3
+Amphibian,Axolotl,4,3,4
+Amphibian,Poison Dart Frog,2,2,2
+
